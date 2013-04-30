@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'test_repo' target in the 'test_repo' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
